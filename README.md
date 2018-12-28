@@ -17,7 +17,7 @@ After creating an Ubuntu Server instance on Amazon Lighsail. Followed these step
 
 * Using git cloned the [Catalog app](https://github.com/suldev8/catalog) repository to `/var/www/catalog`. 
 
-* created a user named `grader` and given the `sudo` access and generated SSH RSA keys and the public key is located on `/home/grader/.ssh/authorized_keys
+* Created a user named `grader` and given the `sudo` access and generated SSH RSA keys and the public key is located on `/home/grader/.ssh/authorized_keys
 `
 
 ## Resources
